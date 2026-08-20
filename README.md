@@ -1,2 +1,7 @@
 # encrypt-msg
 Encrypt your message with UTF encoding and decoding 
+
+Encryption console project , program takes data from the user and convert it into utf-16 in human unreadable formate,
+and again converts back into the human readable
+
+features : encryption / decryption 
